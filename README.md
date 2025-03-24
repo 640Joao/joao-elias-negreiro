@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia, Atualmente, estou focado no meu 
 
 ##Badges
 
-[![CyberOps Associate](https://www.credly.com/badges/a992e1aa-8d70-4262-a330-ad5f44bcbd0d/public_url)]
+[![CyberOps Associate](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="28d63bc6-a513-4534-978f-fe06f984547b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)]
 [![Networking Academy Learn-A-Thon 2024](https://www.credly.com/badges/ccdbeb9e-6509-49bc-b9ad-e1fead2eb9c5/public_url)]
 [![CCNA: Introduction to Networks](https://www.credly.com/badges/1001476e-2177-4021-b6ea-d3820858b3fc/public_url)]
 [![Endpoint Security](https://www.credly.com/badges/28d63bc6-a513-4534-978f-fe06f984547b/public_url)]
