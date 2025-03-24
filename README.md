@@ -7,13 +7,13 @@ Sou um desenvolvedor apaixonado por tecnologia, Atualmente, estou focado no meu 
 
 ## Habilidades
 
-*Linguagens: Java, Python
-*Ferramentas: Git
+* Linguagens: Java, Python
+* Ferramentas: Git
 
 ## Conecte-se comigo
 
-*[LinkedIn]](www.linkedin.com/in/joão-elias-negreiros-de-souza-matos-87a598307)
-*[E-mail](joanegreiros15@gmail.com)
+* [LinkedIn]](www.linkedin.com/in/joão-elias-negreiros-de-souza-matos-87a598307)
+* [E-mail](joanegreiros15@gmail.com)
 
 ## Badges
 
