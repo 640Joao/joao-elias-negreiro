@@ -1,21 +1,21 @@
 # Olá, eu sou João Elias!
 Sou um desenvolvedor apaixonado por tecnologia, Atualmente, estou focado no meu aprimoramento em Java.
 
-##Projetos
+#Projetos
 
 * [Conta Bancária Simples](https://github.com/640Joao/java-basico.git) - Criação de um programa que recebe informações para o cadastramento de uma conta Báncaria.
 
-##Habilidades
+#Habilidades
 
 *Linguagens: Java, Python
 *Ferramentas: Git
 
-##Conecte-se comigo
+#Conecte-se comigo
 
 *[LinkedIn]](www.linkedin.com/in/joão-elias-negreiros-de-souza-matos-87a598307)
 *[E-mail](joanegreiros15@gmail.com)
 
-##Badges
+#Badges
 
 [![CyberOpsAssoc](https://github.com/user-attachments/assets/aa9a5190-386a-4ff7-9800-90f1c0bc91b3)](https://www.credly.com/badges/a992e1aa-8d70-4262-a330-ad5f44bcbd0d/public_url)
 [![image](https://github.com/user-attachments/assets/818984b8-401a-4653-928a-6030f5cc6842)
