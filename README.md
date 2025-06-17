@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu 
 
 ## 💪🏼Habilidades
 
-* ⌨️Linguagens: Java, Python
+* ⌨️Linguagens: Java
 * 🖱️Ferramentas: Git
 
 ## 🪢Conecte-se comigo
