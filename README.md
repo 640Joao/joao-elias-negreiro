@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia, Atualmente, estou focado no meu 
 
 ## 🪢Conecte-se comigo
 
-* [LinkedIn](www.linkedin.com/in/joão-elias-negreiros-de-souza-matos-87a598307)
+* [LinkedIn](https://www.linkedin.com/in/joão-elias-negreiros-de-souza-matos-87a598307)
 * [E-mail](joanegreiros15@gmail.com)
 
 ## ✔️Badges
