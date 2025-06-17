@@ -1,5 +1,5 @@
 # Olá, eu sou João Elias!
-Sou um desenvolvedor apaixonado por tecnologia, Atualmente, estou focado no meu aprimoramento em Java.
+Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu aprimoramento em Java.
 
 ## 🔎Projetos Java
 
