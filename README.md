@@ -39,3 +39,6 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu 
 * Java e Tratamento de Exceções - Dio
 * Estruturas de Repetição em Java - Dio
 * Versionamento de Código com Git e GitHub - Dio
+* CyberOpsAssociate - Cisco
+* CCNA 1 - Cisco
+* Endpoint Security - Cisco
