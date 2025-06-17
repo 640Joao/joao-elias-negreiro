@@ -29,13 +29,13 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu 
 ](https://www.credly.com/badges/28d63bc6-a513-4534-978f-fe06f984547b/public_url)
 
 ## 🧠Certificados
-*Herança e Poliformismo em Java - Dio
-*Java e a Arte da Abstração com Classes e Encapsulamento - Dio
-*Pilares da Programação Orientada a Objetos - Dio
-*Fundamentos da Programação Orientada a Objetos - Dio
-*Sintaxe Básica com Java - Dio
-*Desafios de Código: Aperfeiçoe sua Lógica e Pensamento Computacional - Dio
-*Debugging Java - Dio
-*Java e Tratamento de Exceções - Dio
-*Estruturas de Repetição em Java - Dio
-*Versionamento de Código com Git e GitHub - Dio
+* Herança e Poliformismo em Java - Dio
+* Java e a Arte da Abstração com Classes e Encapsulamento - Dio
+* Pilares da Programação Orientada a Objetos - Dio
+* Fundamentos da Programação Orientada a Objetos - Dio
+* Sintaxe Básica com Java - Dio
+* Desafios de Código: Aperfeiçoe sua Lógica e Pensamento Computacional - Dio
+* Debugging Java - Dio
+* Java e Tratamento de Exceções - Dio
+* Estruturas de Repetição em Java - Dio
+* Versionamento de Código com Git e GitHub - Dio
